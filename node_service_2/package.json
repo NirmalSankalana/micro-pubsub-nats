@@ -1,0 +1,15 @@
+{
+  "name": "node_service_2",
+  "version": "1.0.0",
+  "description": "I'm trying to create some microservices usig NATs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NirmalSankalana",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "nats": "^2.21.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "node_service_1",
+  "version": "1.0.0",
+  "description": "This is a mock microservice implemented using NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node -r esm server.js"
+  },
+  "author": "NirmalSankalana",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "nats": "^2.21.0"
+  }
+}
